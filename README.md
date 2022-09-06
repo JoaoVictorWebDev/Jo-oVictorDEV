@@ -1,5 +1,7 @@
 ### Olá! Eu sou o João Victor🖐️ 
 
+## No momento procuro emprego na área.
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaooVictor&show_icons=true&theme=radical)
